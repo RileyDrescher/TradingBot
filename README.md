@@ -1,4 +1,4 @@
-# APEXBOT — AI Trading System
+# Trading Bot — AI Trading System
 
 A full-stack AI trading system: website, backend API, and trading bot.
 
